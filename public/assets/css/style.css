@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+
+.text-georgia {
+  font-family: georgia;
+  margin: 10px 0 10px 0;
+}
+
+.pagination li {
+  float: left;
+  list-style-type: none;
+  padding: 20px 15px 20px 15px;
+}
+
+.back {
+  float: left;
+}
+
+.add {
+  float: right;
+}
+
+.nav {
+  height: 30px;
+}
+
+.submit-btn {
+  padding: 12px;
+  border-radius: 3px;
+  background-color: green;
+  color: white;
+}
+
+.clear-btn {
+  padding: 12px;
+  border-radius: 3px;
+  background-color: red;
+  color: white;
+}
+
+.success-msg {
+  padding: 15px;
+  border-radius: 4px;
+  background-color: lightgreen;
+  margin-bottom: 17px;
+}
